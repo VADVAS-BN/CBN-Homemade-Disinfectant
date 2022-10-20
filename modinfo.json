@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "homemade_disinfectant_v",
+    "name": "Homemade Disinfectant",
+    "authors": [ "VADVAS" ],
+    "description": "This mod allows you to craft a homemade antiseptic from alcoholic beverages. Этот мод позволяет крафтить самодельный антисептик из алкогольных напитков.",
+    "category": "items",
+    "dependencies": [ "dda" ]
+  }
+]
